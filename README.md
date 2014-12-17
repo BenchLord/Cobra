@@ -1,11 +1,9 @@
 # starterkit
 
-![Starter kit](http://i43.tinypic.com/dztnpe.png)
-
 ### Setting up
 ```
-$ git clone https://github.com/alveyworld-dev/starterkit
-$ cd starterkit
+$ git clone https://github.com/BenchLord/Cobra
+$ cd Cobra
 $ python main.py
 ```
 
